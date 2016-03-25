@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Big O</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="sorting_algorithms">
+        <item>Quick Sort</item>
+        <item>Merge Sort</item>
+        <item>Insertion Sort</item>
+        <item>Selection Sort</item>
+        <item>Bubble Sort</item>
+    </string-array>
+
+    <string name="sort_graph">Graph</string>
+    <string name="prev_step">&lt;</string>
+    <string name="next_step">&gt;</string>
+    <string name="play_steps">Play</string>
+    <string name="stop_steps">Stop</string>
+    <string name="reset_steps">Reset</string>
+
+    <string name="sort_info">Info</string>
+    <string name="bigo_best">Best</string>
+    <string name="bigo_average">Average</string>
+    <string name="bigo_worst">Worst</string>
+    <string name="bigo_memory">Memory</string>
+    <string name="bigo_stable">Stable</string>
+
+    <string name="insertion_sort_info">
+        Efficient for small data due to low overhead\n
+        Efficient for near sorted data\n
+        Bad for big data\n
+        Insertion is expensive
+    </string>
+
+    <string name="selection_sort_info">
+        Efficient for small data due to low overhead\n
+        Not that god for near sorted data\n
+        No need for insertion
+    </string>
+
+</resources>
